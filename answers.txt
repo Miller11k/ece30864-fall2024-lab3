@@ -30,4 +30,9 @@ List at least 2 points on what needs to be discussed during these meetings.
 
 Differentiate between Epic, Story, Bug, and Task issue type in JIRA.
 
+- Epic: High-Level initiatives or bigger pieces of work in Jira
+- Story: Issues that represent work that needs to be completed in support of those larger goals
+- Bug: Problems that impede the progress or functionality of work
+- Task: Represents work that needs to be done
+
 
