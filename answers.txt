@@ -1,0 +1,13 @@
+What are some Pros and Cons of Agile development (vs non-Agile)? List 2 of each.
+
+
+Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+
+
+What are the 3 types of meetings that happen during a sprint cycle?
+List at least 2 points on what needs to be discussed during these meetings.
+
+
+Differentiate between Epic, Story, Bug, and Task issue type in JIRA.
+
+
