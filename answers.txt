@@ -7,7 +7,8 @@ Cons:
   - Time: Planning epics and stories take time away that could be used for development
 
 Explain the role and responsibilities of the Scrum Master vs the Product Owner.
-
+- Scrum Master: All scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
+- Product Owner: Sets direction for the team, handles release management and stakeholder management.
 
 What are the 3 types of meetings that happen during a sprint cycle?
 List at least 2 points on what needs to be discussed during these meetings.
