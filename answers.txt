@@ -1,0 +1,38 @@
+What are some Pros and Cons of Agile development (vs non-Agile)? List 2 of each.
+Pros:
+  - Flexibility: Adaptable to changing development environments, requirements and even developing teams
+  - Immediate Feedback: Utilizes constant testing and feedback from testing
+Cons:
+  - Lack Of Documentation: Due to ever-changing scope of project
+  - Time: Planning epics and stories take time away that could be used for development
+
+Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+- Scrum Master: All scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
+- Product Owner: Sets direction for the team, handles release management and stakeholder management.
+
+What are the 3 types of meetings that happen during a sprint cycle?
+List at least 2 points on what needs to be discussed during these meetings.
+
+- Sprint Planning Meeting:
+  - Determine what to complete in the coming sprint
+  - Move stories in sprint scope from backlog to current sprint
+  - Determine story points and assign stories to team
+  - Start sprint
+- Daily Scrum/Standup Meeting:
+  - Short meeting that happens every day of the sprint
+  - Usually, 10 mins long
+  - Team members discuss work completed, work plan for the day and any blockers
+- Sprint Retrospective Meeting:
+  - Occurs at the end of the sprint
+  - Discuss work complete and move incomplete work to backlog
+  - Close sprint
+
+
+Differentiate between Epic, Story, Bug, and Task issue type in JIRA.
+
+- Epic: High-Level initiatives or bigger pieces of work in Jira
+- Story: Issues that represent work that needs to be completed in support of those larger goals
+- Bug: Problems that impede the progress or functionality of work
+- Task: Represents work that needs to be done
+
+
